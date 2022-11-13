@@ -3,9 +3,6 @@
 <a href="https://www.instagram.com/j_mugambi/">
   <img align="left" alt="Mugambi's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://discord.gg/bespectacledJohn#9568">
-  <img align="left" alt="Mugambi's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
 <a href="https://twitter.com/MugzzM">
   <img align="left" alt="John Mugambi| Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -14,9 +11,9 @@
 </a>
 
 <br />
+<br />
 
-I'm [John Mugambi](https://johnmugambi.github.io), a passionate, ambitious and tech-savvy fullstack developer whose passion is to solve problems and
-build world class applications. I am profecient in fundamental Frontend and Backend languages and technologies. I also have keen interest in technology, applications and user experience, and I continuously strive to evaluate and upgrade my skills
+I'm [John Mugambi](https://johnmugambi.github.io), from Kenya. A passionate, ambitious and tech-savvy fullstack developer, whose passion is to solve problems and build world class applications. I am profecient in fundamental Frontend and Backend languages and technologies. I also have keen interest in technology, applications and user experience, and I continuously strive to evaluate and upgrade my skills
 
 <!--
 **JohnMugambi/JohnMugambi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
