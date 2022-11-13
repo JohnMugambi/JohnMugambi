@@ -17,6 +17,7 @@
 I'm [John Mugambi](https://johnmugambi.github.io/), from Kenya. A passionate, ambitious and tech-savvy fullstack developer, whose passion is to solve problems and build world class applications. I am profecient in fundamental Frontend and Backend languages and technologies. I also have keen interest in technology, applications and user experience, and I continuously strive to evaluate and upgrade my skills
 
 <br/>
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
