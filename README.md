@@ -13,6 +13,7 @@
   <img align="left" alt="Mugambi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<br />
 
 I'm [John Mugambi](https://johnmugambi.github.io), a passionate, ambitious and tech-savvy fullstack developer whose passion is to solve problems and
 build world class applications. I am profecient in fundamental Frontend and Backend languages and technologies. I also have keen interest in technology, applications and user experience, and I continuously strive to evaluate and upgrade my skills
