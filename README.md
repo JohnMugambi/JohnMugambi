@@ -5,10 +5,10 @@
   <img align="left" alt="Mugambi's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://twitter.com/MugzzM/">
-  <img align="left" alt="John Mugambi| Twitter" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/twitter.svg" />
+  <img align="left" alt="John Mugambi| Twitter" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/john-mugambi-2a9728b5/">
-  <img align="left" alt="Mugambi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.svg" />
+  <img align="left" alt="Mugambi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
 </a>
 
 <br />
